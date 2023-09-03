@@ -1,0 +1,5 @@
+Kod java diliyle geliştirilmiştir.
+Monolotik mimari esas alınmıitır.
+Uygulamada DB olarak postgresql kullanılmıştır.
+PostgreSQL ReactDB adında bir DB açılarak direk kullanılabilir aksi halde aplication.yml de yeni isim verilmelidir.
+Uygulama Swagger UI barındırmakadır http://localhost:8080/swagger-ui/index.html adresinden end pointlere istek atılabilir.
